@@ -23,7 +23,7 @@ from django.contrib import messages
 # Create your views here.
 def home(request):
 
-    return render(request, 'homecooking/home.html')
+    return render(request, 'cookingapp/home.html')
 
 class CreateRecipe(CreateView):
     model = Recipe
