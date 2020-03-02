@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c4bf6eb-dfff-4971-b102-84ab48fe92b5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homecooking/homecooking/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/homecooking/homecooking/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,15 +69,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/homecooking/homecooking/urls.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#635#667#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homecooking/cookingapp/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/homecooking/homecooking/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1890" />
+            <state relative-caret-position="412">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -121,14 +142,16 @@
         <option value="$PROJECT_DIR$/homecooking/cookingapp/urls.py" />
         <option value="$PROJECT_DIR$/homecooking/cookingapp/views.py" />
         <option value="$PROJECT_DIR$/homecooking/cookingapp/forms.py" />
+        <option value="$PROJECT_DIR$/homecooking/homecooking/urls.py" />
+        <option value="$PROJECT_DIR$/homecooking/cookingapp/admin.py" />
+        <option value="$PROJECT_DIR$/homecooking/homecooking/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="809" />
-    <option name="y" value="108" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="953" />
     <option name="width" value="974" />
-    <option name="height" value="922" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -204,18 +227,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582660485932</updated>
-      <workItem from="1582660487550" duration="12883000" />
+      <workItem from="1582660487550" duration="13151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12883000" />
+    <option name="totallyTimeSpent" value="13151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="809" y="108" width="974" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4037199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,11 +273,6 @@
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homecooking/homecooking/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1890" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homecooking/cookingapp/templates/base.html">
@@ -309,7 +327,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homecooking/homecooking/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#635#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homecooking/cookingapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homecooking/homecooking/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
